@@ -1,3 +1,5 @@
-地方卫视,#genre#
-安徽卫视,http://cfss.cc/api/ysp/ahws.m3u8
-安徽卫视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be.flv
+#EXTM3U
+#EXTINF:-1 group-title="自建",安徽卫视1
+http://cfss.cc/api/ysp/ahws.m3u8
+#EXTINF:-1 group-title="自建",安徽卫视2
+http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be.flv
