@@ -15,3 +15,7 @@ https://tv.iill.top/bestv/cctv4k
 https://tv.iill.top/bestv/hxjc4k
 #EXTINF:-1 group-title="4K",影视 4K「移动」
 http://111.11.123.37:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
+#EXTINF:-1 group-title="4k",安徽卫视1
+http://cfss.cc/api/ysp/ahws.m3u8
+#EXTINF:-1 group-title="4k",安徽卫视2
+http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be.flv
