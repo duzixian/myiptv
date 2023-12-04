@@ -48,9 +48,6 @@ http://120.196.232.15:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png",cctv17
 http://120.196.232.43:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226727/1.m3u8
 
-#EXTINF:-1 group-title="卫视" tvg-logo="四川新闻", 四川新闻
-http://159.75.166.157/php/sichuan.php?id=scxw
-
 #EXTINF:-1 group-title="卫视" tvg-logo="辽宁", 辽宁卫视
 http://120.196.232.21:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226689/1.m3u8
 
